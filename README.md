@@ -19,7 +19,7 @@ The dashboard provides interactive visualizations that help HR teams make data-d
 <h2>📂 Dataset</h2>
 
 <p>
-👉 <a href="YOUR_DATASET_LINK_HERE">View / Download Dataset</a>
+👉 <a href="https://github.com/Pranita-Redekar/HR-Analytics-Dashboard-Tableau/tree/main/Dataset">View / Download Dataset</a>
 </p>
 
 <hr>
@@ -97,7 +97,7 @@ The dashboard provides interactive visualizations that help HR teams make data-d
 <h2>📷 Dashboard Preview & Output</h2>
 
 <p>
-👉 <a href="YOUR_OUTPUT_FOLDER_LINK_HERE">View / Download Dashboard Screenshots</a>
+👉 <a href="https://github.com/Pranita-Redekar/HR-Analytics-Dashboard-Tableau/tree/main/Dashboard">View / Download Dashboard Screenshots</a>
 </p>
 
 <hr>
